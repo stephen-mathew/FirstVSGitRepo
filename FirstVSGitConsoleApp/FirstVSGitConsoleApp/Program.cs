@@ -10,6 +10,7 @@ namespace FirstVSGitConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi Testing");
         }
     }
 }
